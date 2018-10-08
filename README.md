@@ -12,6 +12,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/FanhuaCloud/Sha
 - 新增auth_chain_c/d/e/f协议,详询https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 - 新增xsalsa20,xchacha20加密，详询https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 - 去掉原版脚本更新检测
+- 已更新：支持更新服务端
 
 #### 官方说明
 ------------
@@ -36,6 +37,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/FanhuaCloud/Sha
 
 ------------
 
-版权归**ToyoDAdoubi**所有，原项目地址：https://github.com/bluekk935/ToyoDAdoubi
+版权归**ToyoDAdoubi**所有，原项目地址：https://github.com/ToyoDAdoubi/doubi
 如有版权问题可以联系我，我将立刻删除该脚本
 
